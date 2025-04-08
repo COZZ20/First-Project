@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>My first test case</description>
+   <name>First-Test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c0d28e14-c54f-4f1f-80b6-c7783b1be9e3</testCaseGuid>
+</TestCaseEntity>
