@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__w-full lgpx-2 food-slider__item-image</name>
+   <tag></tag>
+   <elementGuidId>69b2733e-12b9-4799-b902-c18f4d8ca08b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[4]/div/div/div[2]/div/div/div[4]/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Hash Browns's image Hash Browns&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4c9a3d98-8fdb-42bf-97a4-56bfba79c91e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.mcdonalds.com.my/storage/foods/September2019/tngiz41k4RPjtpn4EOr3.png</value>
+      <webElementGuid>61facad8-dbb5-4c89-a9ec-082634227970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Hash Browns's image</value>
+      <webElementGuid>2ea154b5-5a9b-4133-a6d6-fbfbb3bff19a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full lg:px-2 food-slider__item-image</value>
+      <webElementGuid>f265c609-e1a3-4d0a-8821-6630f5644b73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;food-suggestion slop-container&quot;]/div[@class=&quot;food-suggestion__container&quot;]/div[@class=&quot;mt-4 relative food-suggestion__slider lg:mt-8&quot;]/div[@class=&quot;slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active&quot;]/div[1]/a[@class=&quot;text-center leading-tight lg:px-2 food-slider__item&quot;]/img[@class=&quot;w-full lg:px-2 food-slider__item-image&quot;]</value>
+      <webElementGuid>482c9622-70d6-4126-a9c7-b04bf2c60672</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[4]/div/div/div[2]/div/div/div[4]/div/a/img</value>
+      <webElementGuid>eacaefbe-ff54-40f0-8355-751cc6c3492b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Hash Browns's image&quot;]</value>
+      <webElementGuid>17e86192-5f56-4966-a6fa-483da5ba50a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/a/img</value>
+      <webElementGuid>2469bea0-cd16-484f-86cd-f8c6b22c7e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.mcdonalds.com.my/storage/foods/September2019/tngiz41k4RPjtpn4EOr3.png' and @alt = concat(&quot;Hash Browns&quot; , &quot;'&quot; , &quot;s image&quot;)]</value>
+      <webElementGuid>803433b4-ce3d-4804-b88c-df77fc33cb1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

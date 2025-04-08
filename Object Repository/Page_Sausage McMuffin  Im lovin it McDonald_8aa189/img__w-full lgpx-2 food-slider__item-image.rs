@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__w-full lgpx-2 food-slider__item-image</name>
+   <tag></tag>
+   <elementGuidId>d94ef442-bc66-4346-98a2-d297007c069d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[4]/div/div/div[2]/div/div/div[3]/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Big Breakfast™'s image Big Breakfast™&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0baddcc8-5e3e-4162-ac0e-33584fe411c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.mcdonalds.com.my/storage/foods/June2024/j6OHFYqlwfR3vcvvHsoV.jpg</value>
+      <webElementGuid>a3fa8d8c-14ac-4cb8-8476-2651824c9785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Big Breakfast™'s image</value>
+      <webElementGuid>58f59c70-9b5c-4c3f-bd53-5c0ab1ebb040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full lg:px-2 food-slider__item-image</value>
+      <webElementGuid>62fca56a-b9a2-415f-ad94-b38aa99750ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;food-suggestion slop-container&quot;]/div[@class=&quot;food-suggestion__container&quot;]/div[@class=&quot;mt-4 relative food-suggestion__slider lg:mt-8&quot;]/div[@class=&quot;slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active&quot;]/div[1]/a[@class=&quot;text-center leading-tight lg:px-2 food-slider__item&quot;]/img[@class=&quot;w-full lg:px-2 food-slider__item-image&quot;]</value>
+      <webElementGuid>63484287-aba3-4dd3-b962-da690f2a7d3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[4]/div/div/div[2]/div/div/div[3]/div/a/img</value>
+      <webElementGuid>7922b51c-b421-4b79-8660-62ed60b64d0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Big Breakfast™'s image&quot;]</value>
+      <webElementGuid>af1187fa-7fca-490b-bc0e-1e73e8435200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/img</value>
+      <webElementGuid>e3db1312-d494-484a-bfc6-9bd1e525c142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.mcdonalds.com.my/storage/foods/June2024/j6OHFYqlwfR3vcvvHsoV.jpg' and @alt = concat(&quot;Big Breakfast™&quot; , &quot;'&quot; , &quot;s image&quot;)]</value>
+      <webElementGuid>6074d6a1-b0be-4169-8e51-43ab439cc508</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

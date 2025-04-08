@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Breakfast_w-full lgpx-2 food-slider__it_f3e738</name>
+   <tag></tag>
+   <elementGuidId>e5002ebf-78c6-43dd-88fd-f83f641deeea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='breakfast']/div/div[2]/div/div/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Sausage McMuffin™'s image Sausage McMuffin™&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>239ea6bf-85d3-422d-bb86-f0e1480ae00f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.mcdonalds.com.my/storage/foods/June2024/PygHUdQB8jfxkzd2BIUa.jpg</value>
+      <webElementGuid>1eab899a-1580-4456-8210-b50b7f8f6a0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Sausage McMuffin™'s image</value>
+      <webElementGuid>fef06c25-ec71-48dd-b945-ccb9c953eeea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full lg:px-2 food-slider__item-image</value>
+      <webElementGuid>0f7e59de-25c8-4012-a729-bda5e310080f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;breakfast&quot;)/div[@class=&quot;mt-4 relative&quot;]/div[@class=&quot;slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-current slick-active&quot;]/div[1]/a[@class=&quot;text-center leading-tight lg:px-2 food-slider__item&quot;]/img[@class=&quot;w-full lg:px-2 food-slider__item-image&quot;]</value>
+      <webElementGuid>22824fcb-31b6-4ea7-9b72-9d7b7880e72f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='breakfast']/div/div[2]/div/div/div/div/a/img</value>
+      <webElementGuid>fbf25f1c-52d3-4a15-8d94-6d3e5b8fac1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Sausage McMuffin™'s image&quot;]</value>
+      <webElementGuid>edc1d288-a78d-4b10-bb6b-d63fdd530ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div/a/img</value>
+      <webElementGuid>ab74bcaa-dc84-40e4-a7a3-c448eb56873b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.mcdonalds.com.my/storage/foods/June2024/PygHUdQB8jfxkzd2BIUa.jpg' and @alt = concat(&quot;Sausage McMuffin™&quot; , &quot;'&quot; , &quot;s image&quot;)]</value>
+      <webElementGuid>6b075c2f-e787-4b37-a7b3-dc789f86917f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
